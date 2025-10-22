@@ -29,7 +29,6 @@ Here are the primary technologies I work with:
 
 **DevOps & Cloud:**
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 
@@ -39,6 +38,7 @@ Here are the primary technologies I work with:
 
 I am always pushing myself to learn new things. My current focus is on:
 
+-   **Docker:** Containerizing ASP.NET Core applications for consistent development and deployment environments.
 -   **Unit Testing:** Implementing comprehensive tests using xUnit/NUnit.
 -   **CI/CD:** Automating build and deployment pipelines (e.g., with GitHub Actions).
 -   **English:** Continuously improving my professional and technical language skills.
